@@ -24,7 +24,7 @@ def base_to_int(string, base):
   return result 
 
 def flexibase_add(str1, str2, base1, base2):
-  """add two numbers of different bases and return the sum"""
+  """add two numbers of different bases and return the sum in base 10"""
   result = int_to_base(tmp, base1)
   return result 
 
