@@ -17,7 +17,7 @@
 # A syntax error happens when Python can’t understand the command. 
 
 # Example:
-while True print 'Hello world'
+while True print 'Hello world!'
 # In [1]: while True print 'Hello world'                                          
 #   File "<ipython-input-1-87563a47f7ef>", line 1
 #     while True print 'Hello world'
